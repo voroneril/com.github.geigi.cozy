@@ -3,3 +3,4 @@
 flatpak-repo/
 tmp/
 build/
+/.project
